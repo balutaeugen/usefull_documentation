@@ -1,6 +1,9 @@
 # Usefull Documentation
 Useful documentation for Swift
 
+# • @State, @ObjectBinding, @EnvironmentObject info
+  https://www.youtube.com/watch?v=stSB04C4iS4
+  
 # • All formatter types for Swift (Updated for August 2020) 
   https://nshipster.com/formatter/
 
