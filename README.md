@@ -1,6 +1,9 @@
 # Usefull Documentation
 Useful documentation for Swift
 
+# • Analytics, Diagnostics and Metrics collection
+    [MetricKit](https://developer.apple.com/documentation/metrickit)
+
 # • @State, @ObjectBinding, @EnvironmentObject info
   https://www.youtube.com/watch?v=stSB04C4iS4
   
